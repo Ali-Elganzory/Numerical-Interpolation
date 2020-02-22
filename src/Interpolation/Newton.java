@@ -2,7 +2,11 @@ package Interpolation;
 
 import java.util.Scanner;
 
-public class Interpolation {
+/** 
+ * @author AliElganzory
+ */
+
+public class Newton {
 
   // Newton's 'divided-difference' interpolation method 
 
