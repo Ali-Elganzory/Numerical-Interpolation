@@ -5,5 +5,5 @@
 Code is written in a user-friendly style.  
   
 This method is optimzed in terms of memory  
-  — Space complexity —> Ө(1) : *inplace operations*  
-  — Time complexity  —> Ө(n<sup>2</sup>)  
+__- Space complexity —> Ө(1) : *inplace operations*  
+  - Time complexity__—> Ө(n<sup>2</sup>)  
