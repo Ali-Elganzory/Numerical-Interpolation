@@ -9,7 +9,4 @@ This method is optimzed in terms of memory <br />
   - Time complexity  —> Ө(n<sup>2</sup>) <br />
 <br />
 <br />
-### Lagrange's Method <br /> 
-<br />
-Also, this code is written in a user-friendly style. <br />
-  - Time complexity  —> Ө(n<sup>2</sup>) <br />
+
